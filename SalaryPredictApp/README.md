@@ -13,3 +13,7 @@ In this repo there will be three files :
 
 `pip3 install -r requirements.txt`
 
+To run :  
+`python3 app.py`
+
+Credits : [Hemang's Blog](https://towardsdatascience.com/deploy-a-machine-learning-model-using-flask-da580f84e60c)
